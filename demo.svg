@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="420" viewBox="0 0 680 420">
+<rect width="680" height="420" rx="12" fill="#1a1b1e"/>
+<rect width="680" height="36" rx="0" fill="#2a2b2e"/>
+<rect width="680" height="12" fill="#2a2b2e"/>
+<rect y="24" width="680" height="12" rx="0" fill="#2a2b2e"/>
+<circle cx="18" cy="18" r="5.5" fill="#ff5f57"/>
+<circle cx="34" cy="18" r="5.5" fill="#febc2e"/>
+<circle cx="50" cy="18" r="5.5" fill="#28c840"/>
+<text x="340" y="23" text-anchor="middle" fill="#777"
+  font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="12">wpt — terminal demo</text>
+<g opacity="0">
+  <text x="22" y="70" fill="#5c8f6e" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">❯ </text><text x="37.6" y="70" fill="#e8e8e8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">wpt add &quot;fix auth bug&quot;</text><text x="22" y="90" fill="#28c840" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">  ✚ </text><text x="53.2" y="90" fill="#c8c8c8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">fix auth bug</text><text x="146.8" y="90" fill="#666" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">  (~/my-apps)</text>
+  <text x="340" y="410" text-anchor="middle" fill="#555" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="11">1/9  —  add a task</text>
+  <rect x="248.2" y="77" width="7" height="14" fill="#c8c8c8">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <animateTransform attributeName="transform" type="translate" values="0 0" dur="27.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity"
+    values="0;0;1;1;0;0"
+    keyTimes="0;0.00000;0.00926;0.10185;0.11111;1"
+    calcMode="linear"
+    dur="27.0s"
+    repeatCount="indefinite"/>
+</g><g opacity="0">
+  <text x="22" y="70" fill="#5c8f6e" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">❯ </text><text x="37.6" y="70" fill="#e8e8e8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">wpt add &quot;update deps&quot; -r</text><text x="22" y="90" fill="#28c840" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">  ✚ </text><text x="53.2" y="90" fill="#c8c8c8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">update deps </text><text x="146.8" y="90" fill="#666" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">(~/my-apps/app1)</text><text x="22" y="110" fill="#28c840" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">  ✚ </text><text x="53.2" y="110" fill="#c8c8c8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">update deps </text><text x="146.8" y="110" fill="#666" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">(~/my-apps/app2)</text><text x="22" y="130" fill="#28c840" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">  ✚ </text><text x="53.2" y="130" fill="#c8c8c8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">update deps </text><text x="146.8" y="130" fill="#666" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">(~/my-apps/app3)</text><text x="22" y="150" fill="#28c840" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">✔ added 3 task(s)</text>
+  <text x="340" y="410" text-anchor="middle" fill="#555" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="11">2/9  —  add to every subfolder with -r</text>
+  <rect x="154.6" y="137" width="7" height="14" fill="#c8c8c8">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <animateTransform attributeName="transform" type="translate" values="0 0" dur="27.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity"
+    values="0;0;1;1;0;0"
+    keyTimes="0;0.11111;0.12037;0.21296;0.22222;1"
+    calcMode="linear"
+    dur="27.0s"
+    repeatCount="indefinite"/>
+</g><g opacity="0">
+  <text x="22" y="70" fill="#5c8f6e" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">❯ </text><text x="37.6" y="70" fill="#e8e8e8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">cd ~/my-apps/app1</text><text x="22" y="90" fill="#f5a623" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">  ● </text><text x="53.2" y="90" fill="#666" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">[1] </text><text x="84.4" y="90" fill="#c8c8c8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">fix auth bug</text><text x="22" y="110" fill="#f5a623" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">  ● </text><text x="53.2" y="110" fill="#666" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">[2] </text><text x="84.4" y="110" fill="#c8c8c8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">update deps</text>
+  <text x="340" y="410" text-anchor="middle" fill="#555" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="11">3/9  —  cd triggers task list automatically</text>
+  <rect x="170.2" y="97" width="7" height="14" fill="#c8c8c8">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <animateTransform attributeName="transform" type="translate" values="0 0" dur="27.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity"
+    values="0;0;1;1;0;0"
+    keyTimes="0;0.22222;0.23148;0.32407;0.33333;1"
+    calcMode="linear"
+    dur="27.0s"
+    repeatCount="indefinite"/>
+</g><g opacity="0">
+  <text x="22" y="70" fill="#5c8f6e" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">❯ </text><text x="37.6" y="70" fill="#e8e8e8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">wpt done 1</text><text x="22" y="90" fill="#28c840" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">  ✔ </text><text x="53.2" y="90" fill="#c8c8c8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">fix auth bug </text><text x="154.6" y="90" fill="#666" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">marked done</text>
+  <text x="340" y="410" text-anchor="middle" fill="#555" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="11">4/9  —  mark done by index</text>
+  <rect x="240.39999999999998" y="77" width="7" height="14" fill="#c8c8c8">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <animateTransform attributeName="transform" type="translate" values="0 0" dur="27.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity"
+    values="0;0;1;1;0;0"
+    keyTimes="0;0.33333;0.34259;0.43519;0.44444;1"
+    calcMode="linear"
+    dur="27.0s"
+    repeatCount="indefinite"/>
+</g><g opacity="0">
+  <text x="22" y="70" fill="#5c8f6e" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">❯ </text><text x="37.6" y="70" fill="#e8e8e8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">wpt epic add &quot;v2 release&quot; -r</text><text x="22" y="90" fill="#28c840" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">  ✚ </text><text x="53.2" y="90" fill="#c8c8c8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">v2 release - app1 </text><text x="193.60000000000002" y="90" fill="#666" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">(~/my-apps/app1)</text><text x="22" y="110" fill="#28c840" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">  ✚ </text><text x="53.2" y="110" fill="#c8c8c8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">v2 release - app2 </text><text x="193.60000000000002" y="110" fill="#666" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">(~/my-apps/app2)</text><text x="22" y="130" fill="#28c840" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">  ✚ </text><text x="53.2" y="130" fill="#c8c8c8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">v2 release - app3 </text><text x="193.60000000000002" y="130" fill="#666" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">(~/my-apps/app3)</text><text x="22" y="150" fill="#f0834a" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">  ◆ epic </text><text x="92.2" y="150" fill="#c8c8c8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">v2 release</text><text x="170.2" y="150" fill="#666" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve"> — 3 task(s) created</text>
+  <text x="340" y="410" text-anchor="middle" fill="#555" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="11">5/9  —  create an epic across all subfolders</text>
+  <rect x="326.2" y="137" width="7" height="14" fill="#c8c8c8">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <animateTransform attributeName="transform" type="translate" values="0 0" dur="27.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity"
+    values="0;0;1;1;0;0"
+    keyTimes="0;0.44444;0.45370;0.54630;0.55556;1"
+    calcMode="linear"
+    dur="27.0s"
+    repeatCount="indefinite"/>
+</g><g opacity="0">
+  <text x="22" y="70" fill="#5c8f6e" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">❯ </text><text x="37.6" y="70" fill="#e8e8e8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">wpt list</text><text x="22" y="90" fill="#f0834a" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">  ◆ </text><text x="53.2" y="90" fill="#666" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">[1] </text><text x="84.4" y="90" fill="#c8c8c8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">v2 release</text><text x="162.4" y="90" fill="#f5a623" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">  [░░░░░░░░░░] 0/3 (0%)</text>
+  <text x="340" y="410" text-anchor="middle" fill="#555" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="11">6/9  —  epic summary at the parent folder</text>
+  <rect x="341.8" y="77" width="7" height="14" fill="#c8c8c8">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <animateTransform attributeName="transform" type="translate" values="0 0" dur="27.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity"
+    values="0;0;1;1;0;0"
+    keyTimes="0;0.55556;0.56481;0.65741;0.66667;1"
+    calcMode="linear"
+    dur="27.0s"
+    repeatCount="indefinite"/>
+</g><g opacity="0">
+  <text x="22" y="70" fill="#5c8f6e" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">❯ </text><text x="37.6" y="70" fill="#e8e8e8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">cd ~/my-apps/app1</text><text x="22" y="90" fill="#f5a623" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">  ● </text><text x="53.2" y="90" fill="#666" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">[1] </text><text x="84.4" y="90" fill="#c8c8c8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">v2 release - app1</text><text x="22" y="110" fill="#f0834a" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">  ◆ </text><text x="53.2" y="110" fill="#c8c8c8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">v2 release </text><text x="139.0" y="110" fill="#666" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">› </text><text x="154.6" y="110" fill="#f5a623" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">● </text><text x="170.2" y="110" fill="#c8c8c8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">v2 release - app1 </text><text x="310.6" y="110" fill="#666" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">(pending · 0/3)</text>
+  <text x="340" y="410" text-anchor="middle" fill="#555" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="11">7/9  —  epic membership in each subfolder</text>
+  <rect x="427.6" y="97" width="7" height="14" fill="#c8c8c8">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <animateTransform attributeName="transform" type="translate" values="0 0" dur="27.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity"
+    values="0;0;1;1;0;0"
+    keyTimes="0;0.66667;0.67593;0.76852;0.77778;1"
+    calcMode="linear"
+    dur="27.0s"
+    repeatCount="indefinite"/>
+</g><g opacity="0">
+  <text x="22" y="70" fill="#5c8f6e" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">❯ </text><text x="37.6" y="70" fill="#e8e8e8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">wpt epic done 1 1</text><text x="22" y="90" fill="#28c840" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">  ✔ </text><text x="53.2" y="90" fill="#c8c8c8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">v2 release - app1 </text><text x="193.60000000000002" y="90" fill="#666" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">marked done</text><text x="22" y="110" fill="#f0834a" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">  ◆ </text><text x="53.2" y="110" fill="#c8c8c8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">v2 release  </text><text x="146.8" y="110" fill="#f5a623" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">[███░░░░░░░] 1/3 (33%)</text>
+  <text x="340" y="410" text-anchor="middle" fill="#555" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="11">8/9  —  mark epic task done by index</text>
+  <rect x="318.4" y="97" width="7" height="14" fill="#c8c8c8">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <animateTransform attributeName="transform" type="translate" values="0 0" dur="27.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity"
+    values="0;0;1;1;0;0"
+    keyTimes="0;0.77778;0.78704;0.87963;0.88889;1"
+    calcMode="linear"
+    dur="27.0s"
+    repeatCount="indefinite"/>
+</g><g opacity="0">
+  <text x="22" y="70" fill="#5c8f6e" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">❯ </text><text x="37.6" y="70" fill="#e8e8e8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">wpt epic done 1 --force</text><text x="22" y="90" fill="#28c840" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">  ✔ </text><text x="53.2" y="90" fill="#c8c8c8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">v2 release - app2 </text><text x="193.60000000000002" y="90" fill="#666" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">marked done</text><text x="22" y="110" fill="#28c840" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">  ✔ </text><text x="53.2" y="110" fill="#c8c8c8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">v2 release - app3 </text><text x="193.60000000000002" y="110" fill="#666" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">marked done</text><text x="22" y="130" fill="#28c840" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">  ◆ </text><text x="53.2" y="130" fill="#c8c8c8" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">v2 release  </text><text x="146.8" y="130" fill="#28c840" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">[██████████] 3/3 (100%)</text><text x="22" y="150" fill="#28c840" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">  🎉 </text><text x="53.2" y="150" fill="#28c840" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="13" xml:space="preserve">epic force-completed!</text>
+  <text x="340" y="410" text-anchor="middle" fill="#555" font-family="ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, monospace" font-size="11">9/9  —  force-complete the whole epic</text>
+  <rect x="217.0" y="137" width="7" height="14" fill="#c8c8c8">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <animateTransform attributeName="transform" type="translate" values="0 0" dur="27.0s" repeatCount="indefinite"/>
+  <animate attributeName="opacity"
+    values="0;0;1;1;0;0"
+    keyTimes="0;0.88889;0.89815;0.99074;1.00000;1"
+    calcMode="linear"
+    dur="27.0s"
+    repeatCount="indefinite"/>
+</g>
+</svg>
